@@ -7,6 +7,7 @@ sudo apt-get install libncurses5-dev libncursesw5-dev(to install fuse)
 mkdir mnt (to make the directory where we can mount our file system)
 
 ./a.out mnt (for mounting)
+
  ./a.out -f -s -d mnt (to see more info about inodes and mounting)
 
 
