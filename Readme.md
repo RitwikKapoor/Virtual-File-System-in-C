@@ -20,7 +20,10 @@ fusermount -u mnt (for unmounting the file system)
 Some files that helped in creating the program:-
 
 man 2 stat
+
 man inode
+
+
 less /usr/include/fuse/fuse.h
 
 
